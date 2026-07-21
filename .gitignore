@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Editors and operating systems
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+outputs/*
+!outputs/README.md
+
+# Local and large input data
+data/*
+!data/README.md
+
+# Geospatial sidecar and temporary files
+*.aux.xml
+*.ovr
+*.qmd
+*.sbn
+*.sbx
+
+# Credentials and secrets
+.env
+credentials*
+service-account*.json

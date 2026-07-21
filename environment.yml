@@ -1,0 +1,13 @@
+name: cdmx-green-cover
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - geopandas>=1.0
+  - rasterio>=1.4
+  - shapely>=2.0
+  - pandas>=2.2
+  - numpy>=1.26
+  - pyogrio>=0.10
+  - jupyter>=1.1
+  - ipykernel>=6.29

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Geospatial Classification and Urban Analysis Using Google Earth Engine"
+type: software
+authors:
+  - family-names: "Sánchez Vega"
+    given-names: "Víctor M."
+    orcid: "https://orcid.org/0009-0007-6830-0711"
+version: 1.0.0
+date-released: 2026-07-20
+repository-code: "https://github.com/vicshezv/Geospatial-Classification-and-Urban-Analysis-Using-Google-Earth-Engine"
+license: MIT
+keywords:
+  - GeoAI
+  - urban green areas
+  - conservation land
+  - land-cover classification
+  - Google Earth Engine
+  - Open Buildings
+  - Mexico City
